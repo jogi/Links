@@ -11,6 +11,7 @@
 - [Autolayout Constraints](https://autolayoutconstraints.com/)
 - [iOS Colors](http://ios7colors.com/)
 - [iOS Design Cheatsheet](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
+- [IBM Swift Package Catalog](https://swiftpkgs.ng.bluemix.net)
 
 ## Photography
 
